@@ -1,0 +1,9 @@
+    .btn-detail
+    {  
+
+      transition:all 800ms;
+    }
+    .btn-detail:hover 
+    {
+      padding-left: 50px;
+    }
